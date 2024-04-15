@@ -1,6 +1,2 @@
-Account acct = new Account(
-    Name='Test Account 2',
-    Phone='(415)555-8989',
-    NumberOfEmployees=50,
-    BillingCity='San Francisco');
-insert acct;
+Account c = new Account(Name='Test Account');
+insert c;
