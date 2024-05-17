@@ -1,5 +1,0 @@
-{
-  "devDependencies": {
-    "@salesforce/sfdx-lwc-jest": "^5.0.0"
-  }
-}
