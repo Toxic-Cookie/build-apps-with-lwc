@@ -1,0 +1,4 @@
+<apex:page showHeader="false">
+    <apex:image id="theImage" value="https://media1.tenor.com/m/SRV6_wAvLMkAAAAC/lobotomy-corporation-lobcorp.gif" width="200" height="200" alt="Description of image here"/>
+    <apex:image id="theImagee" value="https://developer.salesforce.com/files/salesforce-developer-network-logo.png" width="220" height="55" alt="Description of image here"/>
+</apex:page>
